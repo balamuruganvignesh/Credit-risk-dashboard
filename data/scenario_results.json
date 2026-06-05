@@ -1,0 +1,1 @@
+{"Baseline": {"total_el": 35391292.02, "el_coverage": 11.3277, "el_delta": -0.0}, "Adverse": {"total_el": 57462112.85, "el_coverage": 18.3919, "el_delta": 62.36}, "Severe": {"total_el": 80811407.67, "el_coverage": 25.8653, "el_delta": 128.34}, "Extreme": {"total_el": 119118701.07, "el_coverage": 38.1264, "el_delta": 236.58}}
